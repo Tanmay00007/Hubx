@@ -1,0 +1,108 @@
+
+.left{
+    margin-left: 1000px;
+    margin-top: 40px;
+}
+
+.text{
+    width: 430px;
+    height: 520px;
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 20px;
+}
+
+.text1{
+    width: 230px;
+}
+
+.body{
+    background-color: whitesmoke;
+}
+
+.chart{
+    height: 1800px;
+    margin-top: 10px;
+    margin-left: -40px;
+    width: 2400px;
+
+}
+
+.chart1{
+    height: 320px;
+    margin-top: 10px;
+    margin-left: 150px;
+    width: 1300px;
+
+}
+
+.margin{
+    margin-right: 300px;
+}
+
+.dataset{
+    margin-top: -140px;
+    margin-right: 80px;
+}
+
+.first{
+    background-color: white;
+    height: 130px;
+    padding: 15px;
+}
+
+.second{
+    background-color: white;
+    height: 130px;
+    padding: 14px;
+}
+
+.third{
+    background-color: white;
+    padding: 14px;
+    margin-right: 8px;
+}
+
+.fourth{
+    background-color: white;
+    padding: 12px;
+}
+
+.form{
+    margin-left: 500px;
+    height: 700px;
+    padding: 5px;
+}
+
+.contact{
+    margin-left: 180px;
+}
+
+.margin1{
+    margin-left: 220px;
+}
+
+.margin2{
+    margin-left: 220px;
+}
+
+.chart2{
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+.rect1{
+    height: 30px;
+    width: 80px;
+    background-color: blue;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+
+.rect2{
+    height: 30px;
+    width: 80px;
+    background-color:  rgb(10, 160, 10);
+    margin-top: 90px;
+    margin-left: 120px;
+}
