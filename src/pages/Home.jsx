@@ -56,7 +56,7 @@ const Home = () => {
         <div className='flex bg-white-600 ml-2'>
             <img src={hbeat} className='w-6 h-6'></img>
             <h4 className='ml-2'>Events Log</h4>
-            <button className='ml-4 rounded-full mr-4 mb-2 pr-4 pl-4 bg-green-500 hover:bg-green-700 text-white'>see all</button>
+            <button className='ml-4 w-24 rounded-full mr-4 mb-2 pr-4 pl-4 bg-green-500 hover:bg-green-700 text-white'>see all</button>
         </div>
         <div className='flex flex-col'>
         <div className='flex'>
