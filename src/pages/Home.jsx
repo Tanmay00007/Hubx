@@ -74,8 +74,8 @@ const Home = () => {
                 <img src={clock} className='w-6 h-6 ml-24 mt-1 margin2'></img>
             </div>
             <div className='flex'>
-                <button className='rounded-full pt-12 pb-12 pr-6 pl-6 bg-green-500 hover:bg-green-700 text-white mt-4'>30 days left</button>
-                <button className='ml-12 rounded-full w-30 h-10 pr-1 pl-2  bg-pink-500 hover:bg-pink-700 text-white mt-24 ml-24'>Upgrade Now!!</button>
+                <button className='rounded-full pt-10 pb-10 pr-6 pl-6 bg-green-500 hover:bg-green-700 text-white mt-4'>30 days left</button>
+                <button className='ml-12 rounded-full w-32 h-10 pr-1 pl-2  bg-pink-500 hover:bg-pink-700 text-white mt-24 ml-24'>Upgrade Now!!</button>
             </div>
             </div>
             <div className='flex flex-col mt-2 ml-4 fourth'>
